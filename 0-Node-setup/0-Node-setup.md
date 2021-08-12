@@ -2,7 +2,7 @@
 
 https://gitcoin.co/issue/nervosnetwork/grants/1/100026176
 
-# Prerequisites
+## Prerequisites
 
 ```bash
 sudo apt install build-essential git curl p7zip-full python2
@@ -11,7 +11,7 @@ npm i -g yarn
 # Docker : https://docs.docker.com/get-docker/
 ```
 
-# 1. Setup a CKB Node
+## 1. Setup a CKB Node
 
 What is a `CKB Node` : https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/conceptual-explainers/tooling.md#ckb-node
 
@@ -46,13 +46,13 @@ cd ~/Nervos-Hackaton/ckb_v0.43.1 && curl -sSf https://raw.githubusercontent.com/
 
 Block explorer for testnet Aggron : https://explorer.nervos.org/aggron/
 
-## Screenshot
+### Screenshot
 
 Node fully synchronized :
 
 ![CKB Node](images/ckb_node.png)
 
-# 2. Setup a CKB Indexer
+## 2. Setup a CKB Indexer
 
 What is a `CKB Indexer` : https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/conceptual-explainers/tooling.md#ckb-indexer
 
@@ -77,7 +77,7 @@ curl -sSf https://raw.githubusercontent.com/Kuzirashi/gw-gitcoin-instruction/mas
 RUST_LOG=warn ./ckb-indexer -s ./indexer-data
 ```
 
-## Screenshot
+### Screenshot
 
 Indexer fully synchronized with local node :
 
