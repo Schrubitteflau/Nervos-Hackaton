@@ -44,7 +44,7 @@ cd ~/Nervos-Hackaton/ckb_v0.43.1 && curl -sSf https://raw.githubusercontent.com/
 ./ckb init --chain testnet && ./ckb run 1>/dev>null
 ```
 
-Block explorer for testnet Aggron https://explorer.nervos.org/aggron/
+Block explorer for testnet Aggron : https://explorer.nervos.org/aggron/
 
 ## Screenshot
 
