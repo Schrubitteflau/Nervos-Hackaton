@@ -1,0 +1,10 @@
+Fetching SUDT ID for SUDT with Type Args: 0xbddb397c259601b143a717bce312dd00e7a981d7068b5ebfd540533893ad007f
+Layer 1 SUDT script hash: 0x7895ce3db952e790a644422e7561fcd6c4af1abbb000909babdaf0b8ee520103
+Layer 2 SUDT script: {
+  code_hash: '0xb6d6a2882d3d08cea565047bfe901cb2afe0cb790ea5e1b61e0532ef237c4a02',
+  hash_type: 'type',
+  args: '0x4cc2e6526204ae6a2e8fcf12f7ad472f41a1606d5b9624beebd215d780809f6a7895ce3db952e790a644422e7561fcd6c4af1abbb000909babdaf0b8ee520103'
+}
+Layer 2 SUDT script hash: 0x8f525d74cd210c0ccec793d65036fe1c058ac9aeabe9029ddc7163516b30db3e
+
+        >>>>> SUDT ID: 2180
