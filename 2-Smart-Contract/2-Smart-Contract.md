@@ -6,8 +6,7 @@ https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 
 ### 1. Prepare Your Ethereum Private Key
 
-My Ethereum private key : `cde930b2d7425acd30909d7a89c89978921da051b1855d5f6a7b13ad44c970b2`
-Which has funds on layer 2 so it can pay the gas fees.
+My Ethereum private key : `cde930b2d7425acd30909d7a89c89978921da051b1855d5f6a7b13ad44c970b2` which has funds on layer 2 so it can pay the gas fees.
 
 ### 2. Clone and Setup the Gitcoin Task Instruction Examples
 
