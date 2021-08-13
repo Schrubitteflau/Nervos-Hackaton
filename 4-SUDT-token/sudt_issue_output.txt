@@ -1,0 +1,17 @@
+ ____  _   _ ____ _____      ____ _     ___ 
+/ ___|| | | |  _ \_   _|    / ___| |   |_ _|
+\___ \| | | | | | || |_____| |   | |    | | 
+ ___) | |_| | |_| || |_____| |___| |___ | | 
+|____/ \___/|____/ |_|      \____|_____|___|
+
+Network Type:	   testnet
+SUDT Token ID:	   0x7895ce3db952e790a644422e7561fcd6c4af1abbb000909babdaf0b8ee520103
+Issuer Lock Hash:  0xbddb397c259601b143a717bce312dd00e7a981d7068b5ebfd540533893ad007f (AKA SUDT Type Args)
+Issuer Address:	   ckt1qyqdrqjc2cr29wh9trxcrv43d59m4alvtzdqa3eupq
+Dest Address:	   ckt1qyqdrqjc2cr29wh9trxcrv43d59m4alvtzdqa3eupq
+Amount:		   999 Tokens
+Fee:		   10000 Shannons
+
+Transaction:	   0xacdc18e770cedbfca7362a5aab0308bb129bc580b869d9d1fcef32ce3efb047e
+Explorer URL:	   https://explorer.nervos.org/aggron/transaction/0xacdc18e770cedbfca7362a5aab0308bb129bc580b869d9d1fcef32ce3efb047e
+Note:		   It may take 1-2 minutes before the transaction is visible on the Explorer.

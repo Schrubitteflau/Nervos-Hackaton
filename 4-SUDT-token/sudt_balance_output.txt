@@ -1,0 +1,11 @@
+ ____  _   _ ____ _____      ____ _     ___ 
+/ ___|| | | |  _ \_   _|    / ___| |   |_ _|
+\___ \| | | | | | || |_____| |   | |    | | 
+ ___) | |_| | |_| || |_____| |___| |___ | | 
+|____/ \___/|____/ |_|      \____|_____|___|
+
+Network Type:	   testnet
+SUDT Token ID:	   0x7895ce3db952e790a644422e7561fcd6c4af1abbb000909babdaf0b8ee520103
+Issuer Lock Hash:  0xbddb397c259601b143a717bce312dd00e7a981d7068b5ebfd540533893ad007f (AKA SUDT Type Args)
+Balance Address:   ckt1qyqdrqjc2cr29wh9trxcrv43d59m4alvtzdqa3eupq
+Balance:	   1099 Tokens
