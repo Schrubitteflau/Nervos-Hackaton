@@ -6,7 +6,7 @@ https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 
 ### 1. Prepare Your Ethereum Private Key
 
-My Ethereum private key : `cde930b2d7425acd30909d7a89c89978921da051b1855d5f6a7b13ad44c970b2` which has funds on layer 2 so it can pay the gas fees.
+My Ethereum private key : `0xcde930b2d7425acd30909d7a89c89978921da051b1855d5f6a7b13ad44c970b2` which has funds on layer 2 so it can pay the gas fees.
 
 ### 2. Clone and Setup the Gitcoin Task Instruction Examples
 
@@ -22,19 +22,14 @@ Smart contract used :
 pragma solidity >=0.8.0;
 
 contract SimpleCalculator {
-  uint a;
-  uint b;
+  uint x;
 
-  function setA(uint x) public payable {
-    a = x;
+  function setX(uint n) public payable {
+    x = n;
   }
   
-  function setB(uint x) public payable {
-    b = x;
-  }
-  
-  function mul() public view returns (uint) {
-      return a * b;
+  function pow() public view returns (uint) {
+      return x * x;
   }
 }
 ```
@@ -60,8 +55,8 @@ Deployment successfull :
 ```
 Found file: ./build/contracts/SimpleCalculator.json
 Deploying contract...
-Transaction hash: 0xb71efdc312519193fe46a0b004cc4ab0998629401cc67264026ce41a731fd706
-Deployed contract address: 0x1048791FBe7769859cac850Bff96db93fDCA434E
+Transaction hash: 0x5dea9aca2b1486ffe117fd0295e10179665d18b5164c5c634c085da21a981677
+Deployed contract address: 0x17E7B5e5280bC6E090E4E505A3223e6069A7A2C8
 ```
 
 ![Contract Deployment](images/contract_deployment.png)

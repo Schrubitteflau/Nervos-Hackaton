@@ -1,18 +1,13 @@
 pragma solidity >=0.8.0;
 
 contract SimpleCalculator {
-  uint a;
-  uint b;
+  uint x;
 
-  function setA(uint x) public payable {
-    a = x;
+  function setX(uint n) public payable {
+    x = n;
   }
   
-  function setB(uint x) public payable {
-    b = x;
-  }
-  
-  function mul() public view returns (uint) {
-      return a * b;
+  function pow() public view returns (uint) {
+      return x * x;
   }
 }
