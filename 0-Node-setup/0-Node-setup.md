@@ -5,7 +5,7 @@ https://gitcoin.co/issue/nervosnetwork/grants/1/100026176
 ## Prerequisites
 
 ```bash
-sudo apt install build-essential git curl p7zip-full python2
+sudo apt install build-essential git curl p7zip-full python
 nvm use 14
 npm i -g yarn
 # Docker : https://docs.docker.com/get-docker/

@@ -1,0 +1,4 @@
+Found file: ./build/contracts/SimpleCalculator.json
+Deploying contract...
+Transaction hash: 0xb71efdc312519193fe46a0b004cc4ab0998629401cc67264026ce41a731fd706
+Deployed contract address: 0x1048791FBe7769859cac850Bff96db93fDCA434E
