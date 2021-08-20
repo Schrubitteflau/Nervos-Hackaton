@@ -1,0 +1,18 @@
+Using Tron address: TCCgikUTZgp3fpQjP1gmbZhndUuFho6oXm
+Calling contract...
+Read call result: 0
+{
+  tx: {
+    from: '0x187CCC2DC8BB9F38A4D81E9F8854FF6DD26BDB5E',
+    to: '0xCBF647d1207bb76a61d5417a6cA608FA1Ba28430',
+    nonce: '0x0',
+    gasPrice: '0x0',
+    gas: '0x271110',
+    value: '0x0',
+    data: '0x4018d9aa0000000000000000000000000000000000000000000000000000000000000003'
+  }
+}
+Write call transaction hash: 0x30743c1b5fbecfc9acf89d789f77827de91d0b6b5a0344d6516a4a717414dc6e
+Waiting for tx receipt doesn't work for Tron calls, but if transaction was submitted then you can check the smart-contract state after 120s and the state should be changed successfully. Waiting 2 minutes...
+Write call finished.
+Read call result: 9
