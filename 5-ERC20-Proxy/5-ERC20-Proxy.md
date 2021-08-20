@@ -26,6 +26,12 @@ To deploy the proxy contract, replace the values in `gw-gitcoin-instruction/src/
 <YOUR_SUDT_ID>
 ```
 
+Somme known SUDT ids :
+- ckETH: 30
+- ckDAI: 35
+- ckUSDT: 36
+- ckUSDC: 37
+
 `SUDT_NAME`, `SUDT_SYMBOL`, and `SUDT_TOTAL_SUPPLY` can be left as is, they are provided for ERC20 compatibility.
 
 Run the script :
