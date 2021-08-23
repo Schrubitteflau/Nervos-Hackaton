@@ -1,0 +1,87 @@
+LUMOS_CONFIG_NAME: AGGRON4
+Indexer is syncing. Please wait...
+Indexer synchronized.
+rollup_type_hash: 0x4cc2e6526204ae6a2e8fcf12f7ad472f41a1606d5b9624beebd215d780809f6a
+CKB address: ckt1qyqdrqjc2cr29wh9trxcrv43d59m4alvtzdqa3eupq
+last_finalized_block_number 25788n
+[DEBUG]: withdrawalCell: {
+  cell_output: {
+    capacity: '0x9502f9000',
+    lock: {
+      args: '0x4cc2e6526204ae6a2e8fcf12f7ad472f41a1606d5b9624beebd215d780809f6a535c75651a4488ba411341fd1640282e06bbd0c69263cddcfedfc54187cb5a5d2af78853d05078f5cb615d5165105d8270b92a43230c0c128d509e8e73c2800e1b7a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000902f5009000000bddb397c259601b143a717bce312dd00e7a981d7068b5ebfd540533893ad007f0000000000000000000000000000000000000000000000000000000000000000',
+      code_hash: '0x170ef156e9f6132dbca6069dfd3e436f7d91c29d3ac7332c4b33e633b6a299b5',
+      hash_type: 'type'
+    },
+    type: null
+  },
+  data: '0x',
+  out_point: {
+    index: '0x3',
+    tx_hash: '0x452867874b2c00c274b5327d208777c974271c27d883a3d8d72aef0119676a66'
+  },
+  block_number: '0x26445e'
+}
+withdrawal_block_number 31259n { last_finalized_block_number: 25788n }
+[INFO]: withdrawal cell not finalized
+[DEBUG]: withdrawalCell: {
+  cell_output: {
+    capacity: '0x9502f9000',
+    lock: {
+      args: '0x4cc2e6526204ae6a2e8fcf12f7ad472f41a1606d5b9624beebd215d780809f6a535c75651a4488ba411341fd1640282e06bbd0c69263cddcfedfc54187cb5a5d92775a728e65e53d1c96545318f2fdf148bee210c1580a3396e0c1e66b92624fed5b00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000902f5009000000bddb397c259601b143a717bce312dd00e7a981d7068b5ebfd540533893ad007f0000000000000000000000000000000000000000000000000000000000000000',
+      code_hash: '0x170ef156e9f6132dbca6069dfd3e436f7d91c29d3ac7332c4b33e633b6a299b5',
+      hash_type: 'type'
+    },
+    type: null
+  },
+  data: '0x',
+  out_point: {
+    index: '0x3',
+    tx_hash: '0xee40f28af9c04233ef9d039a4f46e08820137efd1453c6cd425af67c96988f29'
+  },
+  block_number: '0x256f8e'
+}
+withdrawal_block_number 23533n { last_finalized_block_number: 25788n }
+[DEBUG]: withdrawalCell: {
+  cell_output: {
+    capacity: '0x9502f9000',
+    lock: {
+      args: '0x4cc2e6526204ae6a2e8fcf12f7ad472f41a1606d5b9624beebd215d780809f6a535c75651a4488ba411341fd1640282e06bbd0c69263cddcfedfc54187cb5a5dc1ea1e101de2ab6267e41d971e902818e1c7464b711f8477cf1a3df971446122127a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000902f5009000000bddb397c259601b143a717bce312dd00e7a981d7068b5ebfd540533893ad007f0000000000000000000000000000000000000000000000000000000000000000',
+      code_hash: '0x170ef156e9f6132dbca6069dfd3e436f7d91c29d3ac7332c4b33e633b6a299b5',
+      hash_type: 'type'
+    },
+    type: null
+  },
+  data: '0x',
+  out_point: {
+    index: '0x3',
+    tx_hash: '0x6a4309fa80b3bfc5e355a62fe69b4301d83163ada103c711a90a64cd9ba94eed'
+  },
+  block_number: '0x26441a'
+}
+withdrawal_block_number 31250n { last_finalized_block_number: 25788n }
+[INFO]: withdrawal cell not finalized
+[INFO] found 1 withdrawal cells, only process first one
+withdrawal_witness: 0x0000000004000000
+txHash: 0xc2d1036fb637e52d9382bbbd2edbf5f5986eb2cfe0bcdbeb9c698da745e8ea7d
+current tx status: pending, ... waiting for 0 seconds pending
+current tx status: pending, ... waiting for 1 seconds pending
+current tx status: pending, ... waiting for 2 seconds pending
+current tx status: pending, ... waiting for 3 seconds pending
+current tx status: pending, ... waiting for 4 seconds pending
+current tx status: pending, ... waiting for 5 seconds pending
+current tx status: pending, ... waiting for 6 seconds pending
+current tx status: pending, ... waiting for 7 seconds pending
+current tx status: pending, ... waiting for 8 seconds pending
+current tx status: pending, ... waiting for 9 seconds pending
+current tx status: pending, ... waiting for 10 seconds pending
+current tx status: pending, ... waiting for 11 seconds pending
+current tx status: pending, ... waiting for 12 seconds pending
+current tx status: pending, ... waiting for 13 seconds pending
+current tx status: pending, ... waiting for 14 seconds pending
+current tx status: pending, ... waiting for 15 seconds pending
+current tx status: pending, ... waiting for 16 seconds pending
+current tx status: proposed, ... waiting for 17 seconds proposed
+current tx status: proposed, ... waiting for 18 seconds proposed
+current tx status: proposed, ... waiting for 19 seconds proposed
+current tx status: proposed, ... waiting for 20 seconds proposed
+tx 0xc2d1036fb637e52d9382bbbd2edbf5f5986eb2cfe0bcdbeb9c698da745e8ea7d committed!
